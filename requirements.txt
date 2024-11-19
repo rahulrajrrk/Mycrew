@@ -12,7 +12,6 @@ streamlit
 streamlit-option-menu
 requests
 pillow
-Pillow
 langchain-community
 pypdf
 pinecone
