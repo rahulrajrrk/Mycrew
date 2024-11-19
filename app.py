@@ -770,7 +770,7 @@ class LoginInterface:
 
         # Image in the first column
         with col1:
-            st.write("")
+            st.image("login_background1.jpg", use_column_width=True)
 
         # Input fields in the second column, centered
         with col2:
