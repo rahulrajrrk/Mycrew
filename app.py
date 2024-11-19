@@ -858,7 +858,7 @@ class AdminInterface:
         with col2:
             st.button("Logout", on_click=SessionManager.clear_session)
 
-        st.sidebar.image("https://raw.githubusercontent.com/rahulrajrrk/Mycrew/7026148c6c2159d2d9769fe326bcc298da045a76/login_background.jpg", use_container_width=True)
+        st.sidebar.image("https://raw.githubusercontent.com/rahulrajrrk/Mycrew/7026148c6c2159d2d9769fe326bcc298da045a76/login_background.jpg", use_column_width=True)
 
         # Sidebar user information
         with st.sidebar:
