@@ -11,9 +11,6 @@ import time
 from datetime import datetime
 from streamlit_option_menu import option_menu
 
-# Load environment variables
-load_dotenv()
-
 # Constants
 SESSION_TIMEOUT_MINUTES = 30
 ALLOWED_FILE_TYPES = ["pdf", "docx"]
