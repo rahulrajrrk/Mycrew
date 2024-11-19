@@ -2,7 +2,6 @@ import os
 import pandas as pd
 from typing import Tuple, Optional
 from dataclasses import dataclass
-from dotenv import load_dotenv
 import streamlit as st
 import logging
 import random
