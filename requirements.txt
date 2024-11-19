@@ -8,6 +8,7 @@ langchain-core
 langchain
 langchain-openai
 streamlit
+streamlit-option-menu
 requests
 pillow
 Pillow
