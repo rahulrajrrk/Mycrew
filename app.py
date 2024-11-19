@@ -770,7 +770,7 @@ class LoginInterface:
 
         # Image in the first column
         with col1:
-            st.image("https://raw.githubusercontent.com/rahulrajrrk/Mycrew/feedd0c21f7b2a4ff31fa2f1d7a3d497ffa13dab/login_background1.jpg", use_container_width=True)
+            st.image("https://raw.githubusercontent.com/rahulrajrrk/Mycrew/7026148c6c2159d2d9769fe326bcc298da045a76/login_background.jpg", use_container_width=True)
 
         # Input fields in the second column, centered
         with col2:
