@@ -85,7 +85,6 @@ st.markdown("""
         padding: 8px 12px;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  /* Enhanced shadow */
     }
-
     /* Selectbox Container */
     .stSelectbox > div {
         border: 2px solid #808080;  /* Matching border */
@@ -577,7 +576,6 @@ class SettingsInterface:
     def render(self):
         """Render the complete settings interface."""
         st.title("Settings")
-
         # Create tabs for different settings sections
         tab1, tab2 = st.tabs(["Password Settings", "Theme Settings"])
 
